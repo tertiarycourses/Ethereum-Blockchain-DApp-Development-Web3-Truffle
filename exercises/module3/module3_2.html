@@ -1,0 +1,27 @@
+<html>
+
+	<head>
+
+	</head>
+
+	<body>
+
+	<script src="web3.min.js"></script>
+	<script src="contractAbi.js"></script>
+
+	<script>
+		var contractAddress = '0x345ca3e014aaf5dca488057592ee47305d9b3e10';
+
+   		if ( typeof web3 != 'undefined') {
+     	 	web3 = new Web3(web3.currentProvider);
+    	} else {
+      		web3 = new Web3(new Web3.providers.HttpProvider("http://127.0.0.1:9545"));
+    	}
+
+    	var ApprovalContract = new web3.eth.Contract(abi, contractAddress);
+	</script>
+
+
+</body>
+
+</html>
