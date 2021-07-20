@@ -1,13 +1,15 @@
 # Advanced Ethereum Blockchain DApp Development
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Advanced Ethereum Blockchain DApp Development](https://www.tertiarycourses.com.sg/advanced-blockchain-solidity.html) course. 
+These are the exercise files used for [Ethereum Blockchain DApp Development with Web3 and Truffle](https://www.tertiarycourses.com.sg/ethereum-blockchain-dapp-development-with-web3-and-truffle.html) course. 
 
 The course outline can be found in 
 
-https://www.tertiarycourses.com.sg/advanced-blockchain-solidity.html
+https://www.tertiarycourses.com.sg/ethereum-blockchain-dapp-development-with-web3-and-truffle.html
 
-https://www.tertiarycourses.com.my/advanced-blockchain-solidity-malaysia.html
+https://www.tertiarycourses.com.my/ethereum-blockchain-dapp-development-with-web3-and-truffle-malaysia.html
+
+https://www.tertiarycourses.com.gh/advanced-blockchain-solidity-ghana.html
 
 <p><strong>Module 1 Setup Ethereum Blockchain on Truffle and Ganache</strong></p>
 <ul>
